@@ -18,10 +18,6 @@ You can specify the channel IDs of the YouTube channels you want to monitor.
 
 You can set the interval between checks to control how often **FetchDog** looks for new videos.
 
-### Multiple Channels Support
-
-**FetchDog** supports monitoring multiple channels simultaneously.
-
 ## How to Set it Up
 
 ### 1. Obtain a YouTube Data API Key
