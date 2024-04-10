@@ -12,7 +12,7 @@ You can specify the channel ID of the YouTube channel you want to monitor.
 
 ### Automatic Downloads
 
-**FetchDog** automatically downloads new videos from the monitored channels.
+**FetchDog** automatically downloads new videos from the selected channel.
 
 ### Customizable Interval
 
