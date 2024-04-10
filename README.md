@@ -1,6 +1,6 @@
 # FetchDog
 
-**FetchDog** is your very own YouTube watchdog that allows you to monitor channels for new video uploads and automatically download them.
+**FetchDog** is your very own YouTube watchdog that allows you to monitor a channel set by you for new video uploads and automatically download them.
 
 ## What Can FetchDog Do?
 
@@ -8,7 +8,7 @@
 
 ### Monitor Channels
 
-You can specify the channel IDs of the YouTube channels you want to monitor.
+You can specify the channel ID of the YouTube channel you want to monitor.
 
 ### Automatic Downloads
 
